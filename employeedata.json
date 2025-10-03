@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "John",
+    "middleName": "A",
+    "lastName": "Doe",
+    "username": "user0008681",
+    "password": "Test@1234",
+    "photoPath": "D:\\New folder\\OIP.jpg"
+  },
+  {
+    "firstName": "Alice",
+    "middleName": "B",
+    "lastName": "Smith",
+    "username": "user005485",
+    "password": "Test@1234",
+    "photoPath": "D:\\New folder\\OIP.jpg"
+  }
+]
